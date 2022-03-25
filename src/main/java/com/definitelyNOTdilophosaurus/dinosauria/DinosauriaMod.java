@@ -1,5 +1,6 @@
 package com.definitelyNOTdilophosaurus.dinosauria;
 
+import com.definitelyNOTdilophosaurus.dinosauria.block.ModBlocks;
 import com.definitelyNOTdilophosaurus.dinosauria.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Block;
@@ -32,6 +33,7 @@ public class DinosauriaMod {
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 

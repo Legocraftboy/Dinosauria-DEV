@@ -1,6 +1,8 @@
 {
   "item.dinosauria.dilophosaurus_skull": "Dilophosaurus Skull",
   "item.dinosauria.fossilized_dilophosaurus_skull": "Fossilized Dilophosaurus Skull",
-  "item.dinosauria.dilophosaurus_crest": "Dilophosaurus Crest"
+  "item.dinosauria.dilophosaurus_crest": "Dilophosaurus Crest",
+
+  "block.dinosauria.cycad_planks": "Cycad Planks"
 
 }
