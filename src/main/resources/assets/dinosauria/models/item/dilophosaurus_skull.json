@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "dinosauria:item/Dilo_Skull"
+    "layer0": "dinosauria:item/dilophosaurus_skull"
   }
 }
