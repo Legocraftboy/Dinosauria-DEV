@@ -21,7 +21,6 @@ import java.util.stream.Collectors;
 @Mod(DinosauriaMod.MOD_ID)
 public class DinosauriaMod
 {
-    // Test
     public static final String MOD_ID = "dinosauria";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
