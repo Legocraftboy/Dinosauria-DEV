@@ -3,6 +3,7 @@
   "item.dinosauria.fossilized_dilophosaurus_skull": "Fossilized Dilophosaurus Skull",
   "item.dinosauria.dilophosaurus_crest": "Dilophosaurus Crest",
 
-  "block.dinosauria.cycad_planks": "Cycad Planks"
-
+  "block.dinosauria.cycad_planks": "Cycad Planks",
+  "block.dinosauria.cycad_log": "Cycad Log",
+  "block.dinosauria.stripped_cycad_log": "Stripped Cycad Log"
 }
