@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "dinosauria:block/stripped_cycad_log",
+    "side": "dinosauria:block/stripped_cycad_log"
+  }
+}
