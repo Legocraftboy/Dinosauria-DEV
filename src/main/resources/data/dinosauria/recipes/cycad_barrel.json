@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "P P",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "tag": "dinosauria:cycad_planks"
+    },
+    "S": {
+      "tag": "dinosauria:cycad_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:barrel"
+  }
+}

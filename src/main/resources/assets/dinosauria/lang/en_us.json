@@ -7,5 +7,8 @@
   "block.dinosauria.cycad_log": "Cycad Log",
   "block.dinosauria.stripped_cycad_log": "Stripped Cycad Log",
   "block.dinosauria.stripped_cycad_wood": "Stripped Cycad Wood",
-  "block.dinosauria.cycad_wood": "Cycad Wood"
+  "block.dinosauria.cycad_wood": "Cycad Wood",
+
+  "itemGroup.dinosauriaitems": "Dinosauria - Items",
+  "itemGroup.dinosauriablocks": "Dinosauria - Blocks"
 }

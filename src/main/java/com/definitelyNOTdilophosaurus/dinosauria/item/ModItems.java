@@ -13,13 +13,13 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, DinosauriaMod.MOD_ID);
 
     public static final RegistryObject<Item> DILOPHOSAURUS_SKULL = ITEMS.register("dilophosaurus_skull",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(1)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DINOSAURIA_ITEMS).stacksTo(1)));
 
     public static final RegistryObject<Item> FOSSILIZED_DILOPHOSAURUS_SKULL = ITEMS.register("fossilized_dilophosaurus_skull",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(1)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DINOSAURIA_ITEMS).stacksTo(1)));
 
     public static final RegistryObject<Item> DILOPHOSAURUS_CREST = ITEMS.register("dilophosaurus_crest",
-            () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(2)));
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DINOSAURIA_ITEMS).stacksTo(2)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
