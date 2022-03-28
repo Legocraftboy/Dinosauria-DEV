@@ -18,7 +18,7 @@ public class ModEntityTypes {
 
     public static final RegistryObject<EntityType<DilophosaurusEntity>> DILOPHOSAURUS = ENTITY_TYPES.register("dilophosaurus",
             () -> EntityType.Builder.of(DilophosaurusEntity::new, MobCategory.CREATURE)
-                    .sized(2.0f, 2.0f)
+                    .sized(1.0f, 1.0f)
                     .build(new ResourceLocation(DinosauriaMod.MOD_ID, "dilophosaurus").toString()));
 
     public static void register(IEventBus eventBus) {

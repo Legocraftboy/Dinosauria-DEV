@@ -13,7 +13,7 @@ import software.bernie.geckolib3.renderers.geo.GeoEntityRenderer;
 public class DilophosaurusRenderer extends GeoEntityRenderer<DilophosaurusEntity> {
     public DilophosaurusRenderer(EntityRendererProvider.Context renderManager) {
         super(renderManager, new DilophosaurusModel());
-        this.shadowRadius = 2.0f;
+        this.shadowRadius = 1.0f;
     }
 
     @Override
